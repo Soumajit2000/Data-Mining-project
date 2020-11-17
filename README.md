@@ -8,7 +8,8 @@ In Decision Trees, for predicting a class label for a record we start from the r
 
 # **Naive-Bayes**
 
-Naive Bayes classifiers are a collection of classification algorithms based on Bayes’ Theorem. It is not a single algorithm but a family of algorithms where all of them share a common principle, i.e. every pair of features being classified is independent of each other.
+Naïve Bayes Classifier is one of the simple and most effective Classification algorithms which helps in building the fast machine learning models that can make quick predictions. It is a probabilistic classifier, which means it predicts on the basis of the probability of an object.
+![alt text](https://static.javatpoint.com/tutorial/machine-learning/images/naive-bayes-classifier-algorithm.png)
 
 # **Random Forest**
 
