@@ -1,4 +1,4 @@
-**Decision Tree**
+# **Decision Tree**
 
 Decision Tree algorithm belongs to the family of supervised learning algorithms. Unlike other supervised learning algorithms, the decision tree algorithm can be used for solving regression and classification problems too.
 
