@@ -5,11 +5,13 @@ Decision Tree algorithm belongs to the family of supervised learning algorithms.
 The goal of using a Decision Tree is to create a training model that can use to predict the class or value of the target variable by learning simple decision rules inferred from prior data(training data).
 
 In Decision Trees, for predicting a class label for a record we start from the root of the tree. We compare the values of the root attribute with the record’s attribute. On the basis of comparison, we follow the branch corresponding to that value and jump to the next node.
+
 ![tree](https://www.xoriant.com/blog/wp-content/uploads/2017/08/Decision-Trees-modified-1.png)
 
 # **Naive-Bayes**
 
 Naïve Bayes Classifier is one of the simple and most effective Classification algorithms which helps in building the fast machine learning models that can make quick predictions. It is a probabilistic classifier, which means it predicts on the basis of the probability of an object.
+
 ![formula](https://static.javatpoint.com/tutorial/machine-learning/images/naive-bayes-classifier-algorithm.png)
 
 # **Random Forest**
