@@ -22,7 +22,7 @@
 ![representation](https://static.javatpoint.com/tutorial/machine-learning/images/random-forest-algorithm.png)
 <br><br>
 
-## Algorith Accuracy:
+## Algorithm Accuracy:
 * **Decision Tree**         :   *0.7486033519553073*
 * **Naive Bayes Score**     :   *0.7541899441340782*
 * **Random Forest Score**   :   *0.7821229050279329*
