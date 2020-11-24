@@ -1,6 +1,6 @@
 # **Decision Tree**
 
-**Decision Tree algorithm** belongs to the family of supervised learning algorithms. <p align=justify>Unlike other supervised learning algorithms, the decision tree algorithm can be used for solving regression and classification problems too.</p>
+<p align=justify>Decision Tree algorithm belongs to the family of supervised learning algorithms. Unlike other supervised learning algorithms, the decision tree algorithm can be used for solving regression and classification problems too.</p>
 
 <p align=justify>The goal of using a Decision Tree is to create a training model that can use to predict the class or value of the target variable by learning simple decision rules inferred from prior data(training data).</p>
 
@@ -21,6 +21,12 @@
 
 ![representation](https://static.javatpoint.com/tutorial/machine-learning/images/random-forest-algorithm.png)
 <br><br>
+
+## Algorith Accuracy:
+* **Decision Tree**         :   *0.7486033519553073*
+* **Naive Bayes Score**     :   *0.7541899441340782*
+* **Random Forest Score**   :   *0.7821229050279329*
+
 ## Group Members:
 * [**Soumajit Choudhuri**](https://github.com/Soumajit2000) **- RA1811003040096**
 * [**Mohammed Saqib Rahman**](https://github.com/saqibrahman7) **- RA1811003040165**
